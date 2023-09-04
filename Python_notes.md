@@ -290,3 +290,5 @@ print(x) -> printeaza 2 si nu 4 pentru ca un string e immutable, deci functia tr
 
 
 
+
+
