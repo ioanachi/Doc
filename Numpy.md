@@ -1,3 +1,4 @@
+
 Course https://app.pluralsight.com/course-player?clipId=238ebbd4-dd36-49ea-aaed-483072cbe8ef for NUMPY
 
 
